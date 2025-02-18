@@ -1,5 +1,6 @@
 
 import './App.css'
+import ComponentA from './Components/ComponentA/ComponentA'
 
 function App() {
 
@@ -8,6 +9,8 @@ function App() {
     <>
       
       <h1>Vite + React</h1>
+      {/* circular dependency example */}
+      {/* <ComponentA></ComponentA> */}
       
         
     </>
