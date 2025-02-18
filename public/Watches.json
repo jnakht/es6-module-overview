@@ -1,0 +1,502 @@
+[
+    {
+        "name": "Rolex Submariner",
+        "brand": "Rolex",
+        "model": "Submariner",
+        "price": 10000,
+        "material": "Stainless Steel",
+        "waterResistance": "300m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Omega Speedmaster",
+        "brand": "Omega",
+        "model": "Speedmaster",
+        "price": 6500,
+        "material": "Stainless Steel",
+        "waterResistance": "50m",
+        "movement": "Manual Wind",
+        "inStock": false
+    },
+    {
+        "name": "Tag Heuer Carrera",
+        "brand": "Tag Heuer",
+        "model": "Carrera",
+        "price": 4500,
+        "material": "Titanium",
+        "waterResistance": "100m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Casio G-Shock",
+        "brand": "Casio",
+        "model": "G-Shock",
+        "price": 150,
+        "material": "Resin",
+        "waterResistance": "200m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Seiko Prospex",
+        "brand": "Seiko",
+        "model": "Prospex",
+        "price": 800,
+        "material": "Stainless Steel",
+        "waterResistance": "200m",
+        "movement": "Automatic",
+        "inStock": false
+    },
+    {
+        "name": "Patek Philippe Nautilus",
+        "brand": "Patek Philippe",
+        "model": "Nautilus",
+        "price": 35000,
+        "material": "White Gold",
+        "waterResistance": "120m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Audemars Piguet Royal Oak",
+        "brand": "Audemars Piguet",
+        "model": "Royal Oak",
+        "price": 40000,
+        "material": "Rose Gold",
+        "waterResistance": "50m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Breitling Navitimer",
+        "brand": "Breitling",
+        "model": "Navitimer",
+        "price": 7000,
+        "material": "Stainless Steel",
+        "waterResistance": "30m",
+        "movement": "Automatic",
+        "inStock": false
+    },
+    {
+        "name": "Tissot PRX",
+        "brand": "Tissot",
+        "model": "PRX",
+        "price": 650,
+        "material": "Stainless Steel",
+        "waterResistance": "100m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Citizen Eco-Drive",
+        "brand": "Citizen",
+        "model": "Eco-Drive",
+        "price": 300,
+        "material": "Titanium",
+        "waterResistance": "100m",
+        "movement": "Solar",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 1",
+        "brand": "Brand 1",
+        "model": "Series 1",
+        "price": 200,
+        "material": "Stainless Steel",
+        "waterResistance": "50m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 2",
+        "brand": "Brand 2",
+        "model": "Series 2",
+        "price": 400,
+        "material": "Titanium",
+        "waterResistance": "100m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 3",
+        "brand": "Brand 3",
+        "model": "Series 3",
+        "price": 600,
+        "material": "Stainless Steel",
+        "waterResistance": "150m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 4",
+        "brand": "Brand 4",
+        "model": "Series 4",
+        "price": 800,
+        "material": "Titanium",
+        "waterResistance": "200m",
+        "movement": "Automatic",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 5",
+        "brand": "Brand 5",
+        "model": "Series 5",
+        "price": 1000,
+        "material": "Stainless Steel",
+        "waterResistance": "250m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 6",
+        "brand": "Brand 6",
+        "model": "Series 6",
+        "price": 1200,
+        "material": "Titanium",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 7",
+        "brand": "Brand 7",
+        "model": "Series 7",
+        "price": 1400,
+        "material": "Stainless Steel",
+        "waterResistance": "100m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 8",
+        "brand": "Brand 8",
+        "model": "Series 8",
+        "price": 1600,
+        "material": "Titanium",
+        "waterResistance": "150m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 9",
+        "brand": "Brand 9",
+        "model": "Series 9",
+        "price": 1800,
+        "material": "Stainless Steel",
+        "waterResistance": "200m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 10",
+        "brand": "Brand 10",
+        "model": "Series 10",
+        "price": 2000,
+        "material": "Titanium",
+        "waterResistance": "250m",
+        "movement": "Automatic",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 11",
+        "brand": "Brand 11",
+        "model": "Series 11",
+        "price": 2200,
+        "material": "Stainless Steel",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 12",
+        "brand": "Brand 12",
+        "model": "Series 12",
+        "price": 2400,
+        "material": "Titanium",
+        "waterResistance": "100m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 13",
+        "brand": "Brand 13",
+        "model": "Series 13",
+        "price": 2600,
+        "material": "Stainless Steel",
+        "waterResistance": "150m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 14",
+        "brand": "Brand 14",
+        "model": "Series 14",
+        "price": 2800,
+        "material": "Titanium",
+        "waterResistance": "200m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 15",
+        "brand": "Brand 15",
+        "model": "Series 15",
+        "price": 3000,
+        "material": "Stainless Steel",
+        "waterResistance": "250m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 16",
+        "brand": "Brand 16",
+        "model": "Series 16",
+        "price": 3200,
+        "material": "Titanium",
+        "waterResistance": "50m",
+        "movement": "Automatic",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 17",
+        "brand": "Brand 17",
+        "model": "Series 17",
+        "price": 3400,
+        "material": "Stainless Steel",
+        "waterResistance": "100m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 18",
+        "brand": "Brand 18",
+        "model": "Series 18",
+        "price": 3600,
+        "material": "Titanium",
+        "waterResistance": "150m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 19",
+        "brand": "Brand 19",
+        "model": "Series 19",
+        "price": 3800,
+        "material": "Stainless Steel",
+        "waterResistance": "200m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 20",
+        "brand": "Brand 20",
+        "model": "Series 20",
+        "price": 4000,
+        "material": "Titanium",
+        "waterResistance": "250m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 21",
+        "brand": "Brand 21",
+        "model": "Series 21",
+        "price": 4200,
+        "material": "Stainless Steel",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 22",
+        "brand": "Brand 22",
+        "model": "Series 22",
+        "price": 4400,
+        "material": "Titanium",
+        "waterResistance": "100m",
+        "movement": "Automatic",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 23",
+        "brand": "Brand 23",
+        "model": "Series 23",
+        "price": 4600,
+        "material": "Stainless Steel",
+        "waterResistance": "150m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 24",
+        "brand": "Brand 24",
+        "model": "Series 24",
+        "price": 4800,
+        "material": "Titanium",
+        "waterResistance": "200m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 25",
+        "brand": "Brand 25",
+        "model": "Series 25",
+        "price": 5000,
+        "material": "Stainless Steel",
+        "waterResistance": "250m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 26",
+        "brand": "Brand 26",
+        "model": "Series 26",
+        "price": 5200,
+        "material": "Titanium",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 27",
+        "brand": "Brand 27",
+        "model": "Series 27",
+        "price": 5400,
+        "material": "Stainless Steel",
+        "waterResistance": "100m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 28",
+        "brand": "Brand 28",
+        "model": "Series 28",
+        "price": 5600,
+        "material": "Titanium",
+        "waterResistance": "150m",
+        "movement": "Automatic",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 29",
+        "brand": "Brand 29",
+        "model": "Series 29",
+        "price": 5800,
+        "material": "Stainless Steel",
+        "waterResistance": "200m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 30",
+        "brand": "Brand 30",
+        "model": "Series 30",
+        "price": 6000,
+        "material": "Titanium",
+        "waterResistance": "250m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 31",
+        "brand": "Brand 31",
+        "model": "Series 31",
+        "price": 6200,
+        "material": "Stainless Steel",
+        "waterResistance": "50m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 32",
+        "brand": "Brand 32",
+        "model": "Series 32",
+        "price": 6400,
+        "material": "Titanium",
+        "waterResistance": "100m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 33",
+        "brand": "Brand 33",
+        "model": "Series 33",
+        "price": 6600,
+        "material": "Stainless Steel",
+        "waterResistance": "150m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 34",
+        "brand": "Brand 34",
+        "model": "Series 34",
+        "price": 6800,
+        "material": "Titanium",
+        "waterResistance": "200m",
+        "movement": "Automatic",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 35",
+        "brand": "Brand 35",
+        "model": "Series 35",
+        "price": 7000,
+        "material": "Stainless Steel",
+        "waterResistance": "250m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 36",
+        "brand": "Brand 36",
+        "model": "Series 36",
+        "price": 7200,
+        "material": "Titanium",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 37",
+        "brand": "Brand 37",
+        "model": "Series 37",
+        "price": 7400,
+        "material": "Stainless Steel",
+        "waterResistance": "100m",
+        "movement": "Automatic",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 38",
+        "brand": "Brand 38",
+        "model": "Series 38",
+        "price": 7600,
+        "material": "Titanium",
+        "waterResistance": "150m",
+        "movement": "Quartz",
+        "inStock": false
+    },
+    {
+        "name": "Watch Model 39",
+        "brand": "Brand 39",
+        "model": "Series 39",
+        "price": 7800,
+        "material": "Stainless Steel",
+        "waterResistance": "200m",
+        "movement": "Quartz",
+        "inStock": true
+    },
+    {
+        "name": "Watch Model 40",
+        "brand": "Brand 40",
+        "model": "Series 40",
+        "price": 8000,
+        "material": "Titanium",
+        "waterResistance": "250m",
+        "movement": "Automatic",
+        "inStock": false
+    }
+]
